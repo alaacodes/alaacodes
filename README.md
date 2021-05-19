@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alaacodes
+- 👋 Hi, I’m Al-amin Ahmed!
 - 👀 I’m interested in Software Engineering, Web Development and Cybersecurity.
 - 🌱 I’m currently learning Full-Stack Engineer Career Path on Codecademy and Front End Development Libraries on freecodecamp.org
 - 💞️ I’m looking to collaborate on Software AND Web Development programs
